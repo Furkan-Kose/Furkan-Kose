@@ -1,16 +1,30 @@
-### Hi there 👋
+## Hello, Let's Get Acquainted 👋
 
-<!--
-**Furkan-Kose/Furkan-Kose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a computer engineering student working towards becoming a full-stack developer. Here are some of the technologies I'm familiar with:
 
-Here are some ideas to get you started:
+- Frontend: HTML, CSS, Tailwind CSS, JavaScript (JS), TypeScript (TS), React, Vue.js
+- Mobile Development: React Native
+- Backend: Node.js, Express.js
+- Databases: MongoDB
+- Server-Side Rendering (SSR): Next.js
+- Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Social Media Accounts
+
+- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
+- Email: youremail@gmail.com
+
+### GitHub Statistics
+
+![GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=Furkan-Kose&show_icons=true&theme=dark)
+
+### Most Used Languages
+
+![Dil İstatistikleri](https://github-readme-stats.vercel.app/api/top-langs/?username=Furkan-Kose&layout=compact&theme=dark)
+
+### Quick Contact
+
+- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
+- Email: youremail@gmail.com
+
+---
