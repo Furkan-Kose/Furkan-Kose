@@ -1,18 +1,20 @@
-## Hello, Let's Get Acquainted 👋
+## Hello, I'm Furkan 👋
 
-I am a computer engineering student working towards becoming a full-stack developer. Here are some of the technologies I'm familiar with:
+I'm a computer engineering student and a full-stack developer with a passion for learning and building software solutions. I love exploring new technologies and staying up-to-date with industry trends.
 
-- Frontend: HTML, CSS, Tailwind CSS, JavaScript (JS), TypeScript (TS), React, Vue.js
+### Technologies
+
+- Frontend: HTML, CSS, SCSS, Tailwind CSS, JavaScript, TypeScript, React
 - Mobile Development: React Native
 - Backend: Node.js, Express.js
 - Databases: MongoDB
 - Server-Side Rendering (SSR): Next.js
-- Docker
+- Tools: Docker, Postman, VSCode
 
 ### Social Media Accounts
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
-- Email: youremail@gmail.com
+- [LinkedIn](https://www.linkedin.com/)
+- Email: furkankose2003@gmail.com
 
 ### GitHub Statistics
 
@@ -24,7 +26,7 @@ I am a computer engineering student working towards becoming a full-stack develo
 
 ### Quick Contact
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
-- Email: youremail@gmail.com
+- [LinkedIn](https://www.linkedin.com/)
+- Email: furkankose2003@gmail.com
 
 ---
